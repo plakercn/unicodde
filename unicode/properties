@@ -1,0 +1,368 @@
+#Wed Sep 10 15:31:00 CEST 2014
+admin.menu.title=\u81EA\u6211\u6CE8\u518C
+admin.menu.title.alt=$\:\u7BA1\u7406\:\u83DC\u5355\:\u9898\u76EE
+admin.registration.domains=\u57DF\u540D\u5355
+admin.registration.domains.desc=\u81EA\u6211\u6CE8\u518C\u53EF\u4EE5\u6709\u9009\u62E9\u5730\u9650\u5236\u5728\u4E00\u4E2A\u6216\u8005\u591A\u4E2A\u57DF\u540D\u3002\u8BF7\u6DFB\u52A0\u57DF\u540D\u540D\u5355\uFF0C\u5982\uFF1Aopenolat.com,*openolat.org,hotmail.com\uFF0C\u6765\u6FC0\u6D3B\u8FD9\u4E2A\u529F\u80FD\u3002
+admin.registration.domains.error=\u8FD9\u4E9B\u57DF\u540D\u65E0\u6548\uFF1A{0}
+admin.registration.domains.title=\u9650\u5236\u5728\u57DF\u540D
+admin.registration.property=\u7528\u6237\u5C5E\u6027
+admin.registration.propertyValue=\u57FA\u51C6\u503C
+admin.registration.propertyValue.error=\u65E0\u6548\u503C
+admin.registration.staticprop.desc=\u81EA\u6211\u6CE8\u518C\u540E\u53EF\u4EE5\u6709\u9009\u62E9\u5730\u7ED9\u7528\u6237\u5C5E\u6027\u8D4B\u4E00\u4E2A\u57FA\u51C6\u503C\u3002\u8FD9\u6837\u53EF\u4EE5\u4F7F\u81EA\u6211\u6CE8\u518C\u7684\u7528\u6237\u5BB9\u6613\u88AB\u8BC6\u522B\uFF0C\u4F8B\u5982\uFF0C\u53EF\u4EE5\u548CLDAP\u7528\u6237\u533A\u522B\u5F00\u6765\u3002
+admin.registration.staticprop.title=\u7528\u6237\u5C5E\u6027\u8D4B\u503C
+admin.registration.title=\u81EA\u6211\u6CE8\u518C
+admin.registrationLinkExample=\u793A\u4F8B\u4EE3\u7801
+disclaimer.acknowledged=<b>\u6211\u5DF2\u7ECF\u9605\u8BFB\u8BE5\u4F7F\u7528\u6761\u6B3E\uFF0C\u5E76\u7406\u89E3\u548C\u540C\u610F\u3002</b>
+disclaimer.additionalcheckbox=<b>\u6211\u540C\u610F\u6570\u636E\u7684\u5B58\u50A8\u534F\u8BAE</b>
+disclaimer.additionallinktext=\u4F7F\u7528\u534F\u8BAE(PDF\u6587\u6863)
+disclaimer.filedownloadurl=Nutzungsbedingungen.pdf\uFF08\u4F7F\u7528\u534F\u8BAE\uFF09
+disclaimer.form.cancelled=\u60A8\u8FD8\u6CA1\u6709\u63A5\u53D7\u8BE5\u6761\u6B3E\u3002
+disclaimer.header=\u4F7F\u7528\u6761\u6B3E
+disclaimer.nok=\u62D2\u7EDD
+disclaimer.ok=\u63A5\u53D7
+disclaimer.paragraph1=OpenOLAT\u7684\u7528\u6237\u4E00\u5B9A\u8981\u4E86\u89E3\uFF0COpenOLAT\u53EA\u80FD\u7528\u4E8E\u6559\u5B66\u3002 \u4ED6/\u5979\u4E0D\u53EF\u4EE5\u8FDD\u80CC\u745E\u58EB\u5173\u4E8E\u516C\u5171\u884C\u4E3A\u6216\u7B2C\u4E09\u65B9\u5168\u529B\u7684\u6CD5\u5F8B\u3002 (Copyright\u7248\u6743, data protection \u6570\u636E\u4FDD\u62A4\u7B49\u7B49.) \u5C24\u5176\u662F\uFF0COpenOLAT\u7684\u7528\u6237\u8981\u4FDD\u8BC1\u4E0D\u5728OpenOLAT\u670D\u52A1\u5668\u4E0A\u4F20\u64AD\u548C\u5B58\u50A8\u6709\u5173\u8272\u60C5\u3001\u79CD\u65CF\u4E3B\u4E49\u4EE5\u53CA\u66B4\u529B\u65B9\u9762\u7684\u4FE1\u606F\u3002 \u6B64\u5916\uFF0C\u4ED6/\u5979\u4E0D\u5F97\u717D\u52A8\u975E\u6CD5\u6D3B\u52A8\u6216\u4E3A\u5176\u63D0\u4F9B\u6709\u5173\u4FE1\u606F\u3002\r\nOpenOLAT\u7B80\u4F53\u4E2D\u6587\u7248
+disclaimer.terms.of.usage=<b>\u4F7F\u7528\u6761\u6B3E</b>
+email.address=\u7535\u5B50\u90AE\u4EF6\u5730\u5740
+email.address.maynotbeempty=\u60A8\u5FC5\u987B\u8F93\u5165\u4E00\u4E2A\u7535\u5B50\u90AE\u4EF6\u5730\u5740
+email.address.notregular=\u60A8\u5FC5\u987B\u8F93\u5165\u4E00\u4E2A\u6709\u6548\u7684\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+email.address2=\u7535\u5B50\u90AE\u4EF6\u5730\u5740 (\u8BF7\u91CD\u65B0\u8F93\u5165)
+email.notsent=\u7535\u5B50\u90AE\u4EF6\u65E0\u6CD5\u53D1\u9001\uFF0C\u8BF7\u60A8\u91CD\u65B0\u63D0\u4F9B\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+email.or.username=\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u6216\u7528\u6237\u540D
+email.or.username.maynotbeempty=\u8BF7\u60A8\u63D0\u4F9B\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u6216\u8005\u60A8\u7684\u7528\u6237\u540D
+email.or.username.not.identified=\u65E0\u6CD5\u786E\u5B9A\u7528\u6237\u8EAB\u4EFD\u3002
+email.sent=\u7535\u5B50\u90AE\u4EF6\u5DF2\u53D1\u9001\u3002
+form.check1=\u8BF7\u8F93\u5165\u60A8\u7684\u540D\u3002
+form.check2=\u8BF7\u8F93\u5165\u60A8\u7684\u59D3\u3002
+form.check3=$org.olat.user\:form.checkUsername
+form.check4=\u8BF7\u8F93\u5165\u5BC6\u7801\u3002
+form.check5=\u8BF7\u518D\u6B21\u8F93\u5165\u76F8\u540C\u7684\u5BC6\u7801\u3002
+form.check6=\u8BE5\u7528\u6237\u540D\u5DF2\u5B58\u5728\uFF0C\u8BF7\u60A8\u9009\u62E9\u53E6\u4E00\u4E2A\u7528\u6237\u540D\u3002
+form.general.error=\u8BF7\u4FEE\u6539\u4E0B\u5217\u533A\u57DF\uFF1A
+form.legende.mandatory=\u5FC5\u987B\u586B\u5199\u6B64\u533A\u57DF\u3002
+form.login=\u767B\u5F55
+form.mail.whitelist.error=\u60A8\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u7684\u57DF\u540D\u8FD8\u6CA1\u6709\u4E3A\u81EA\u6211\u6CE8\u518C\u5F00\u653E\u3002\u8BF7\u60A8\u4F7F\u7528\u60A8\u673A\u6784\u7684\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+form.password.enter.new=\u8BBE\u7F6E\u65B0\u5BC6\u7801
+form.password.error.nomatch=\u5BC6\u7801\u4E0D\u5339\u914D
+form.password.new1=\u65B0\u5BC6\u7801
+form.password.new2=\u786E\u8BA4\u5BC6\u7801
+login.body=\u60A8\u5DF2\u7ECF\u5728OpenOLAT\u6CE8\u518C\u8FC7\u3002\u60A8\u7684\u7528\u6237\u540D\u662F {0}\r\n\r\n\u5982\u679C\u60A8\u5F97\u5230\u4E00\u4E2A\u4E0D\u60F3\u8981\u7684\u7535\u5B50\u90AE\u4EF6\uFF0C\u8BF7\u5C06\u5B83\u5220\u9664\u3002\r\n\r\n\u60A8\u7684OpenOLAT\u56E2\u961F
+login.subject=\u60A8\u5DF2\u7ECF\u5728OpenOLAT\u6CE8\u518C\u3002
+loginhelp=\u7528\u6237\u540D<ul><li>\u4E00\u5B9A \u81F3\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26</li><li>\u53EF\u4EE5\u53EA\u5305\u542B\u6570\u5B57\u548C\u5C0F\u5199\u5B57\u6BCD(\u6CA1\u6709\u7279\u6B8A\u6570\u5B57\u6216\u5143\u97F3\u9664\u5916)</li><li>\u4EE5\u540E\u4E0D\u80FD\u66F4\u6539</li></ul>
+menu.login.alt=\u8BF7\u4ECEOpenOLAT\u5B66\u4E60\u7BA1\u7406\u7CFB\u7EDF\u767B\u5165\uFF0C\u4EE5\u83B7\u5F97\u77E5\u8BC6\u548C\u6536\u76CA\u3002
+password.cantchange=\u5982\u679C\u8981\u4FEE\u6539\u5BC6\u7801\uFF0C\u8BF7\u4E0E\u60A8\u6240\u5728\u7684\u5927\u5B66\u7684\u652F\u6301\u5C0F\u7EC4\u53D6\u5F97\u8054\u7CFB\u3002
+password.notchanged=\u65E0\u6CD5\u4FEE\u6539\u60A8\u7684OpenOLAT\u5BC6\u7801\u3002
+password.successful=\u60A8\u7684OpenOLAT \u5BC6\u7801\u4FEE\u6539\u6210\u529F\u3002
+pwchange.body=\u8BF7\u4F7F\u7528\u94FE\u63A5 {0}/dmz/pwchange/index.html?key\={1}\u27E8\={2} \r\n\u6765\u4FEE\u6539\u60A8\u7684 OpenOLAT \u5BC6\u7801\u3002 \r\n\r\n\u60A8\u7684OpenOLAT\u56E2\u961F\u3002
+pwchange.homelink=\u8BF7\u70B9\u51FB\u6B64\u5904\u767B\u9646
+pwchange.intro=\u60A8\uFF08\u6216\u8005\u5176\u4ED6\u4EBA\uFF09\u5DF2\u7ECF\u8BF7\u6C42OpenOLAT\u7528\u6237\u8D26\u6237{0}\u4F7F\u7528\u4E00\u4E2A\u65B0\u5BC6\u7801\u3002
+pwchange.subject=\u4E00\u4E2A\u65B0\u7684OpenOLAT\u5BC6\u7801\u7684\u5BC6\u94A5\u3002
+pwdchangekey.missing=\u8BF7\u4E3A\u5BC6\u7801\u4FEE\u6539\u63D0\u4EA4\u4E00\u4E2A\u5BC6\u94A5\u3002
+pwdhelp=\u5BC6\u7801<ul><li>\u4E00\u5B9A\u81F3\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26</li><li>\u5FC5\u987B\u5305\u542B\u5B57\u6BCD \u548C\u81F3\u5C11\u4E00\u4E2A\u6570\u5B57</li><li>\u4E00\u5B9A\u4E0D\u80FD\u5305\u542B\u5143\u97F3\u5B57\u6BCD\u548C\u7279\u6B8A\u5B57\u7B26\u5982\uFF1A \u00FC, \u00E4, \u00E9</li><li>\u4E00\u5B9A\u4E0D\u80FD\u5305\u542B\u7A7A\u767D\u7B26\u548C\u9000\u51FA\u987A\u5E8F</li><li>\u53EF\u80FD\u5305\u542B\u4E0B\u5217\u7684\u7279\u6B8A\u5B57\u7B26 \!  \# $ % &  ( ) * + , - . / \: ; <\=> ? @ [  ] ^ _ ` { | } ~</li></ul>
+pwform.cancelled=OpenOLAT \u4FEE\u6539\u5DF2\u7ECF\u88AB\u53D6\u6D88\uFF0C\u5BC6\u7801\u4FDD\u6301\u4E0D\u53D8\u3002
+pwform.failed=\u53D1\u751F\u672A\u77E5\u9519\u8BEF\u3002\u60A8\u7684\u5BC6\u7801\u6CA1\u6709\u6539\u53D8\u3002
+pwkey.missingentry=\u6CA1\u6709\u627E\u5230OpenOLAT\u5BC6\u7801\u4FEE\u6539\u7684\u5BC6\u94A5\u3002
+reg.body=<p>\u611F\u8C22\u4F60\u5173\u6CE8OpenOLAT.</p><p>\u8BF7\u4F7F\u7528\u8FDE\u63A5{3}<br>\u6765\u5B8C\u6210\u6CE8\u518C\u3002</p><p>\u5982\u679C\u4F60\u4E0D\u60F3\u6CE8\u518C\uFF0C\u8BF7\u5FFD\u7565\u6B64e-mail\u3002</p><p>OpenOLAT\u5C0F\u7EC4</p>
+reg.error.no_username=\u65E0\u6CD5\u521B\u5EFA\u7528\u6237\u540D
+reg.error.title=\u5DF2\u53D6\u6D88\u6CE8\u518C
+reg.error.user_in_use=\u6B64\u7528\u6237\u540D\u5DF2\u7ECF\u5B58\u5728
+reg.notiEmail.subject=\u65B0OpenOLAT\u7528\u6237\uFF1A {1} {2} {{0}}
+reg.subject=OpenOLAT\u7684\u6CE8\u518C\u5BC6\u94A5\u3002
+reg.wherefrom=\u8FD9\u4E2A\u8BF7\u6C42\u670D\u52A1\u7684\u6CE8\u518C {0}\u5DF2\u7ECF\u5728 {1}\u4E0A\u751F\u6210.
+registration.form.cancelled=\u4F60\u5DF2\u7ECF\u53D6\u6D88\u6CE8\u518C\u3002
+regkey.missing=\u6CE8\u518C\u5BC6\u94A5\u4E22\u5931\uFF0C\u8BF7\u9009\u62E9\u4E00\u4E2A\u65B0\u7684\u3002
+regkey.missingentry=\u8FD9\u4E2A\u6CE8\u518C\u7684\u5BC6\u94A5\u4E0D\u5B58\u5728\uFF0C\u8BF7\u9009\u62E9\u53E6\u4E00\u4E2A\u3002
+select.language=\u8BED\u8A00
+select.language.description=\u8BF7\u4E3A\u60A8\u7684OpenOLAT\u6CE8\u518C\u548C\u7528\u6237\u8D26\u6237\u9009\u62E9\u4E00\u79CD\u8BED\u8A00\u3002\u4E4B\u540E\u60A8\u53EF\u4EE5\u4EFB\u4F55\u65F6\u5019\u5728\u60A8\u7684\u7528\u6237\u914D\u7F6E\u6587\u4EF6\u4E2D\u4FEE\u6539\u3002\u63A5\u4E0B\u6765\u60A8\u5C06\u8FDB\u5165\u6CE8\u518C\u7684\u5F15\u5BFC\u7A0B\u5E8F\u3002
+sr.error.disclaimer.checkbox=\u4F60\u5FC5\u987B\u786E\u8BA4(\u70B9\u51FB\u9009\u6846)\u4F60\u5DF2\u7ECF\u9605\u8BFB\u4E86\u89E3\u9664\u6761\u6B3E\uFF0C\u5E76\u4E14\u4E86\u89E3\u548C\u63A5\u53D7\u4E86\u5B83\u3002
+sr.error.disclaimer.checkboxes=\u60A8\u9700\u8981\u901A\u8FC7\u9009\u62E9<i>\u5168\u90E8</i>\u590D\u9009\u6846\u4EE5\u786E\u5B9A\u60A8\u5DF2\u7ECF\u9605\u8BFB\u3001\u7406\u89E3\u4F7F\u7528\u534F\u8BAE\u5E76\u63A5\u53D7\u6B64\u534F\u8BAE\u3002
+step1.pw.text=\u60A8\u53EF\u4EE5\u5728\u6B64\u8BBE\u7F6E\u65B0\u7684OpenOLAT\u5BC6\u7801\u3002\u5F53\u60A8\u4F7F\u7528OpenOLAT\u65F6\uFF0C\u8BF7\u63D0\u4F9B\u4E00\u4E2A\u5DF2\u7ECF\u4F7F\u7528\u7684e-mail\u5730\u5740\u6216\u7528\u6237\u540D\u3002
+step1.pw.title=\u8BBE\u7F6E\u65B0\u7684OpenOLAT\u5BC6\u7801\u3002
+step1.reg.text=\u60A8\u9700\u8981\u4E00\u4E2A\u6709\u6548\u7684 e-mail\u5730\u5740\u6765\u6CE8\u518C\u3002\u60A8\u5C06\u4F1A\u83B7\u5F97\u4E00\u4E2A\u5305\u542B\u5BC6\u94A5\u7684\u94FE\u63A5\uFF0C\u901A\u8FC7e-mail\u6765\u8BBE\u7F6E\u4E2A\u4EBA\u7684\u7528\u6237\u540D\u548C\u5BC6\u7801\u3002
+step1.reg.title=OpenOLAT \u6CE8\u518C
+step2.pw.text=\u8BF7\u67E5\u9605\u60A8\u7684\u90AE\u7BB1\u3002<br>\u60A8\u5C06\u4F1A\u6536\u5230\u4E00\u5C01\u5173\u4E8E\u6307\u5BFC\u5982\u4F55\u8FDB\u884C\u7684e-mail\u3002
+step2.reg.text=\u611F\u8C22\u60A8\u5BF9OpenOLAT\u7684\u5173\u6CE8\u3002\u60A8\u5C06\u4F1A\u6536\u5230\u4E00\u5C01\u5173\u4E8E\u6307\u5BFC\u5982\u4F55\u8FDB\u884C{0}\u7684e-mail\u3002
+step3.pw.text=\u8BF7\u53C2\u8003\u5982\u4E0B\u8BF4\u660E\u4EE5\u8BBE\u7F6EOpenOLAT\u5BC6\u7801\uFF1A
+step3.reg.text=\u4E3A\u4E86\u5B8C\u6210\u60A8\u6CE8\u518C\uFF0C\u8BF7\u586B\u5199\u4E0B\u8868\u3002
+step4.pw.text=\u60A8\u5DF2\u7ECF\u6210\u529F\u5730\u4FEE\u6539OpenOLAT\u5BC6\u7801\u3002
+step4.reg.text=<b>\u8BF7\u5728\u7EE7\u7EED\u4E4B\u524D\u5148\u9605\u8BFB\u4F7F\u7528\u6761\u6B3E</b>
+step5.reg.text=<p><b>\u6B22\u8FCE\u6765\u5230 OpenOLAT\!</b></p>\u60A8\u73B0\u5728\u53EF\u4EE5\u4F7F\u7528\u7528\u6237\u540D<b>{1}</b>\u548C\u5BC6\u7801\u767B\u5F55 <a href\="{0}/"></a>
+step5.reg.yourdata=\u60A8\u7684\u4FE1\u606F\u96C6\:
+submit.accept=\u63A5\u53D7
+submit.cancel=\u53D6\u6D88
+submit.speichernUndpwchange=\u66F4\u6539OpenOLAT \u5BC6\u7801
+submit.speichernUndregistrieren=\u6CE8\u518C
+submit.speichernUndweiter=\u53D1\u9001
+submit.weiter=\u4E0B\u4E00\u6B65
+title.pwchange=\u66F4\u6539OpenOLAT \u5BC6\u7801
+title.register=OpenOLAT \u6CE8\u518C
+unknown.body=\u5982\u679C\u60A8\u60F3\u8981\u66F4\u6539OpenOLAT\u5BC6\u7801\uFF0C\u4F46\u662F\u6240\u7ED9\u7684e-mail\u5E76\u6CA1\u6709\u5728\u670D\u52A1\u5668 {0}\u91CC\u6CE8\u518C\uFF0C\u8BF7\u8BD5\u53E6\u4E00\u4E2Ae-mail\u5730\u5740\u3002\r\n\r\n\u4E00\u65E6\u60A8\u4E0D\u60F3\u6536\u5230\u6B64e-mail\uFF0C\u8BF7\u628A\u5B83\u5220\u9664\u3002\r\n\r\n \u60A8\u7684OpenOLAT\u56E2\u961F\uFF08\u5434\u5BBE\uFF09\u3002
+unknown.subject=OpenOLAT\u7CFB\u7EDF\u4E2D\u672A\u77E5\u7684e-mail\u5730\u5740\u3002
+user.firstname=\u540D
+user.language=\u8BED\u8A00
+user.lastname=\u59D3
+user.login=\u7528\u6237\u540D
+user.loginlength=\u5230\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26\uFF1B\u53EF\u4EE5\u5305\u62EC\u5B57\u6BCD\u548C\u6570\u5B57
+user.notregistered=\u65E0\u6CD5\u6CE8\u518C\uFF0C\u8BF7\u6838\u5BF9\u60A8\u7684\u4FE1\u606F\u3002
+user.password=OpenOLAT \u5BC6\u7801
+user.password2=\u91CD\u65B0\u8F93\u5165OpenOLAT \u5BC6\u7801
+user.pwlength=\u5230\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26\uFF1B\u53EF\u4EE5\u5305\u62EC\u5B57\u6BCD\u548C\u6570\u5B57
+user.regkey=\u6CE8\u518C\u5BC6\u94A5
+workflow.browsedback=\u8BF7\u4E0D\u8981\u4F7F\u7528\u6B64\u6D4F\u89C8\u5668\u6765\u5BFC\u822A\u3002
+
+submit.cancel=取消
+regkey.missingentry=这个注册的密钥不存在，请选择另一个。
+#请查阅您的邮箱。<br>您将会收到一封关于指导如何进行的e-mail。
+step2.pw.text=请查阅您的邮箱。<BR>您将会收到一封关于指导如何进行的e邮件。
+disclaimer.header=使用条款
+#用户名<ul><li>一定 至少包含4个字符</li><li>可以只包含数字和小写字母(没有特殊数字或元音除外)</li><li>以后不能更改</li></ul>
+loginhelp=用户名<ul> <li>一定至少包含4个字符<李<li>可以只包含数字和小写字母（没有特殊数字或元音除外）＜／Li <li>以后不能更改＜＞＞＜／UL /李
+#OpenOLAT 注册
+title.register=openolat registered
+submit.accept=接受
+#电子邮件地址 (请重新输入)
+email.address2=电子邮件地址（请重新输入）
+#您需要通过选择<i>全部</i>复选框以确定您已经阅读、理解使用协议并接受此协议。
+sr.error.disclaimer.checkboxes=您需要通过选择全部br br复选框以确定您已经阅读、理解使用协议并接受此协议。
+#您已经在OpenOLAT注册过。您的用户名是 {0}
+
+如果您得到一个不想要的电子邮件，请将它删除。
+
+您的OpenOLAT团队
+login.body=您已经在openolat注册过.您的用户名是{0}
+#<b>我已经阅读该使用条款，并理解和同意。</b>
+disclaimer.acknowledged=我已经阅读该使用条款并理解和同意>，<二>。
+user.notregistered=无法注册，请核对您的信息。
+sr.error.disclaimer.checkbox=你必须确认（点击选框你已经阅读了解除条款，并且了解和接受了它）。
+email.or.username.not.identified=无法确定用户身份。
+email.address.notregular=您必须输入一个有效的电子邮件地址。
+#密码<ul><li>一定至少包含4个字符</li><li>必须包含字母 和至少一个数字</li><li>一定不能包含元音字母和特殊字符如： ü, ?, é</li><li>一定不能包含空白符和退出顺序</li><li>可能包含下列的特殊字符 !  # $ % &  ( ) * + , - . / : ; <=> ? @ [  ] ^ _ ` { | } ~</li></ul>
+pwdhelp=密码<ul> <li>一定至少包含4个字符<李<li>必须包含字母和至少一个数字<李<li>一定不能包含元音字母和特殊字符如：ü，C、＜／Lié<li>一定不能包含空白符和退出顺序<李<li>可能包含下列的特殊字符！# $ % &（）* +，-。/：；< = >？“[ ]”{}为_ |～＜＞＞＜／UL /李
+user.language=语言
+password.cantchange=如果要修改密码，请与您所在的大学的支持小组取得联系。
+select.language=语言
+admin.registration.staticprop.title=用户属性赋值
+disclaimer.ok=接受
+form.password.error.nomatch=密码不匹配
+reg.subject=openolat的注册密钥。
+admin.registration.propertyValue.error=无效值
+select.language.description=请为您的openolat注册和用户账户选择一种语言.之后您可以任何时候在您的用户配置文件中修改.接下来您将进入注册的引导程序.
+step5.reg.yourdata=您的信息集：
+admin.registration.domains.error=这些域名无效：{0}
+submit.speichernUndregistrieren=registered
+disclaimer.additionallinktext=使用协议（pdf文档）
+admin.menu.title=自我注册
+step2.reg.text=感谢您对openolat的关注.您将会收到一封关于指导如何进行{0}的e邮件。
+email.or.username=电子邮件地址或用户名
+admin.registration.staticprop.desc=自我注册后可以有选择地给用户属性赋一个基准值.这样可以使自我注册的用户容易被识别，例如，可以和ldap用户区别开来.
+user.lastname=姓
+user.regkey=注册密钥
+#<b>请在继续之前先阅读使用条款</b>
+step4.reg.text=请在继续之前先阅读使用条款＜B＞＞＜／b
+user.login=用户名
+reg.error.title=已取消注册
+admin.registrationLinkExample=示例代码
+user.firstname=name
+password.notchanged=无法修改您的openolat密码。
+submit.speichernUndweiter=发送
+#OpenOLAT 密码
+user.password=openolat密码
+form.legende.mandatory=必须填写此区域。
+form.mail.whitelist.error=您电子邮件地址的域名还没有为自我注册开放.请您使用您机构的电子邮件地址。
+step3.pw.text=请参考如下说明以设置openolat密码：
+workflow.browsedback=请不要使用此浏览器来导航。
+email.or.username.maynotbeempty=请您提供电子邮件地址或者您的用户名
+step1.pw.text=您可以在此设置新的openolat密码.当您使用openolat时，请提供一个已经使用的e - mail地址或用户名.
+reg.error.no_username=无法创建用户名
+admin.registration.domains.desc=自我注册可以有选择地限制在一个或者多个域名.请添加域名名单，如：openolat.com openolat.org这来激活这个功能. *，，，
+#请使用链接 {0}/dmz/pwchange/index.html?key={1}?={2} 
+来修改您的 OpenOLAT 密码。 
+
+您的OpenOLAT团队。
+pwchange.body=请使用链接{0} /区域/ pwchange index.html吗？密钥?= {一} = {二}
+admin.registration.property=用户属性
+disclaimer.filedownloadurl=nutzungsbedingungen.pdf（使用协议）
+email.address.maynotbeempty=您必须输入一个电子邮件地址
+admin.menu.title.alt=$:管理:菜单:题目
+#OpenOLAT的用户一定要了解，OpenOLAT只能用于教学。 他/她不可以违背瑞士关于公共行为或第三方全力的法律。 (Copyright版权, data protection 数据保护等等.) 尤其是，OpenOLAT的用户要保证不在OpenOLAT服务器上传播和存储有关色情、种族主义以及暴力方面的信息。 此外，他/她不得煽动非法活动或为其提供有关信息。
+OpenOLAT简体中文版
+disclaimer.paragraph1=openolat的用户一定要了解，openolat只能用于教学她不可以违背瑞士关于公共行为或第三方全力的法律是否。（。（copyright版权，数据保护数据保护等等尤其是。），openolat的用户要保证不在openolat服务器上传播和存储有关色情、种族主义以及暴力方面的信息she /情况。她不得煽动非法活动或为其提供有关信息。
+#OpenOLAT 修改已经被取消，密码保持不变。
+pwform.cancelled=openolat修改已经被取消，密码保持不变。
+user.loginlength=到少包含4个字符；可以包括字母和数字
+email.sent=电子邮件已发送。
+form.login=登录
+pwkey.missingentry=没有找到openolat密码修改的密钥。
+#您的OpenOLAT 密码修改成功。
+password.successful=您的openolat密码修改成功。
+pwchange.intro=“您”（或者其他人）使用一个新密码已经请求openolat用户账户{0}。
+#新OpenOLAT用户： {1} {2} {{0}}
+reg.notiEmail.subject=新openolat用户：{一}，{二} {{0}}
+regkey.missing=注册密钥丢失，请选择一个新的。
+login.subject=您已经在openolat注册。
+pwchange.subject=一个新的openolat密码的密钥。
+registration.form.cancelled=你已经取消注册。
+submit.weiter=步
+pwchange.homelink=请点击此处登陆
+#更改OpenOLAT 密码
+submit.speichernUndpwchange=更改openolat密码
+#<b>我同意数据的存储协议</b>
+disclaimer.additionalcheckbox=我同意数据的存储协议＜B＞＞＜／b
+admin.registration.domains.title=限制在域名
+user.pwlength=到少包含4个字符；可以包括字母和数字
+form.check6=该用户名已存在，请您选择另一个用户名。
+unknown.subject=mail地址openolat系统中未知的e -。
+form.check5=请再次输入相同的密码。
+reg.error.user_in_use=此用户名已经存在
+email.address=电子邮件地址
+form.check4=请输入密码。
+form.check3=$org.olat.user:form.checkUsername
+form.check2=请输入您的姓。
+#如果您想要更改OpenOLAT密码，但是所给的e-mail并没有在服务器 {0}里注册，请试另一个e-mail地址。
+
+一旦您不想收到此e-mail，请把它删除。
+
+ 您的OpenOLAT团队（吴宾）。
+unknown.body=如果您想要更改openolat密码，mail并没有在服务器里注册但是所给的e - {0}，mail地址请试另一个e -。
+form.check1=请输入您的名。
+#<p>感谢你关注OpenOLAT.</p><p>请使用连接{3}<br>来完成注册。</p><p>如果你不想注册，请忽略此e-mail。</p><p>OpenOLAT小组</p>
+reg.body=<P>感谢你关注openolat。</P><P>请使用连接{3} <BR>来完成注册。</P><P>如果你不想注册，请忽略此e邮件。</P><P> openolat小组＞＜／P
+admin.registration.propertyValue=基准值
+form.password.new2=确认密码
+form.password.new1=新密码
+#这个请求服务的注册 {0}已经在 {1}上生成.
+reg.wherefrom=这个请求服务的注册{0}已经在{1}上生成。
+#<b>使用条款</b>
+disclaimer.terms.of.usage=使用条款＜B＞＞＜／b
+form.general.error=请修改下列区域：
+disclaimer.nok=拒绝
+#您需要一个有效的 e-mail地址来注册。您将会获得一个包含密钥的链接，通过e-mail来设置个人的用户名和密码。
+step1.reg.text=您需要一个有效的电子mail地址来注册.您将会获得一个包含密钥的链接，通过e - mail来设置个人的用户名和密码.
+admin.registration.title=自我注册
+pwform.failed=发生未知错误.您的密码没有改变。
+form.password.enter.new=设置新密码
+step3.reg.text=为了完成您注册，请填写下表。
+step1.pw.title=设置新的openolat密码。
+email.notsent=电子邮件无法发送，请您重新提供电子邮件地址。
+#<p><b>欢迎来到 OpenOLAT!</b></p>您现在可以使用用户名<b>{1}</b>和密码登录 <a href="{0}/"></a>
+step5.reg.text=<p> <b>欢迎来到openolat！＜／b＞＜／P＞＜B＞您现在可以使用用户名{1} </b>和密码登录< HREF =“{0} /”>
+disclaimer.form.cancelled=您还没有接受该条款。
+pwdchangekey.missing=请为密码修改提交一个密钥。
+#重新输入OpenOLAT 密码
+user.password2=重新输入openolat密码
+#更改OpenOLAT 密码
+title.pwchange=更改openolat密码
+menu.login.alt=请从openolat学习管理系统登入，以获得知识和收益。
+admin.registration.domains=域名单
+step4.pw.text=您已经成功地修改openolat密码。
+#OpenOLAT 注册
+step1.reg.title=openolat registered#
+#Sun Apr 21 11:54:22 CST 2019
+submit.cancel=\u53D6\u6D88
+regkey.missingentry=\u8FD9\u4E2A\u6CE8\u518C\u7684\u5BC6\u94A5\u4E0D\u5B58\u5728\uFF0C\u8BF7\u9009\u62E9\u53E6\u4E00\u4E2A\u3002
+step2.pw.text=\u8BF7\u67E5\u9605\u60A8\u7684\u90AE\u7BB1\u3002<br>\u60A8\u5C06\u4F1A\u6536\u5230\u4E00\u5C01\u5173\u4E8E\u6307\u5BFC\u5982\u4F55\u8FDB\u884C\u7684e-mail\u3002
+disclaimer.header=\u4F7F\u7528\u6761\u6B3E
+loginhelp=\u7528\u6237\u540D<ul><li>\u4E00\u5B9A \u81F3\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26</li><li>\u53EF\u4EE5\u53EA\u5305\u542B\u6570\u5B57\u548C\u5C0F\u5199\u5B57\u6BCD(\u6CA1\u6709\u7279\u6B8A\u6570\u5B57\u6216\u5143\u97F3\u9664\u5916)</li><li>\u4EE5\u540E\u4E0D\u80FD\u66F4\u6539</li></ul>
+title.register=OpenOLAT \u6CE8\u518C
+submit.accept=\u63A5\u53D7
+email.address2=\u7535\u5B50\u90AE\u4EF6\u5730\u5740 (\u8BF7\u91CD\u65B0\u8F93\u5165)
+sr.error.disclaimer.checkboxes=\u60A8\u9700\u8981\u901A\u8FC7\u9009\u62E9<i>\u5168\u90E8</i>\u590D\u9009\u6846\u4EE5\u786E\u5B9A\u60A8\u5DF2\u7ECF\u9605\u8BFB\u3001\u7406\u89E3\u4F7F\u7528\u534F\u8BAE\u5E76\u63A5\u53D7\u6B64\u534F\u8BAE\u3002
+login.body=\u60A8\u5DF2\u7ECF\u5728OpenOLAT\u6CE8\u518C\u8FC7\u3002\u60A8\u7684\u7528\u6237\u540D\u662F {0}\r\n\r\n\u5982\u679C\u60A8\u5F97\u5230\u4E00\u4E2A\u4E0D\u60F3\u8981\u7684\u7535\u5B50\u90AE\u4EF6\uFF0C\u8BF7\u5C06\u5B83\u5220\u9664\u3002\r\n\r\n\u60A8\u7684OpenOLAT\u56E2\u961F
+disclaimer.acknowledged=<b>\u6211\u5DF2\u7ECF\u9605\u8BFB\u8BE5\u4F7F\u7528\u6761\u6B3E\uFF0C\u5E76\u7406\u89E3\u548C\u540C\u610F\u3002</b>
+user.notregistered=\u65E0\u6CD5\u6CE8\u518C\uFF0C\u8BF7\u6838\u5BF9\u60A8\u7684\u4FE1\u606F\u3002
+sr.error.disclaimer.checkbox=\u4F60\u5FC5\u987B\u786E\u8BA4(\u70B9\u51FB\u9009\u6846)\u4F60\u5DF2\u7ECF\u9605\u8BFB\u4E86\u89E3\u9664\u6761\u6B3E\uFF0C\u5E76\u4E14\u4E86\u89E3\u548C\u63A5\u53D7\u4E86\u5B83\u3002
+email.or.username.not.identified=\u65E0\u6CD5\u786E\u5B9A\u7528\u6237\u8EAB\u4EFD\u3002
+email.address.notregular=\u60A8\u5FC5\u987B\u8F93\u5165\u4E00\u4E2A\u6709\u6548\u7684\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+pwdhelp=\u5BC6\u7801<ul><li>\u4E00\u5B9A\u81F3\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26</li><li>\u5FC5\u987B\u5305\u542B\u5B57\u6BCD \u548C\u81F3\u5C11\u4E00\u4E2A\u6570\u5B57</li><li>\u4E00\u5B9A\u4E0D\u80FD\u5305\u542B\u5143\u97F3\u5B57\u6BCD\u548C\u7279\u6B8A\u5B57\u7B26\u5982\uFF1A \u00FC, \u00E4, \u00E9</li><li>\u4E00\u5B9A\u4E0D\u80FD\u5305\u542B\u7A7A\u767D\u7B26\u548C\u9000\u51FA\u987A\u5E8F</li><li>\u53EF\u80FD\u5305\u542B\u4E0B\u5217\u7684\u7279\u6B8A\u5B57\u7B26 \!  \# $ % &  ( ) * + , - . / \: ; <\=> ? @ [  ] ^ _ ` { | } ~</li></ul>
+user.language=\u8BED\u8A00
+password.cantchange=\u5982\u679C\u8981\u4FEE\u6539\u5BC6\u7801\uFF0C\u8BF7\u4E0E\u60A8\u6240\u5728\u7684\u5927\u5B66\u7684\u652F\u6301\u5C0F\u7EC4\u53D6\u5F97\u8054\u7CFB\u3002
+select.language=\u8BED\u8A00
+admin.registration.staticprop.title=\u7528\u6237\u5C5E\u6027\u8D4B\u503C
+disclaimer.ok=\u63A5\u53D7
+form.password.error.nomatch=\u5BC6\u7801\u4E0D\u5339\u914D
+reg.subject=OpenOLAT\u7684\u6CE8\u518C\u5BC6\u94A5\u3002
+admin.registration.propertyValue.error=\u65E0\u6548\u503C
+select.language.description=\u8BF7\u4E3A\u60A8\u7684OpenOLAT\u6CE8\u518C\u548C\u7528\u6237\u8D26\u6237\u9009\u62E9\u4E00\u79CD\u8BED\u8A00\u3002\u4E4B\u540E\u60A8\u53EF\u4EE5\u4EFB\u4F55\u65F6\u5019\u5728\u60A8\u7684\u7528\u6237\u914D\u7F6E\u6587\u4EF6\u4E2D\u4FEE\u6539\u3002\u63A5\u4E0B\u6765\u60A8\u5C06\u8FDB\u5165\u6CE8\u518C\u7684\u5F15\u5BFC\u7A0B\u5E8F\u3002
+step5.reg.yourdata=\u60A8\u7684\u4FE1\u606F\u96C6\:
+admin.registration.domains.error=\u8FD9\u4E9B\u57DF\u540D\u65E0\u6548\uFF1A{0}
+submit.speichernUndregistrieren=\u6CE8\u518C
+disclaimer.additionallinktext=\u4F7F\u7528\u534F\u8BAE(PDF\u6587\u6863)
+admin.menu.title=\u81EA\u6211\u6CE8\u518C
+step2.reg.text=\u611F\u8C22\u60A8\u5BF9OpenOLAT\u7684\u5173\u6CE8\u3002\u60A8\u5C06\u4F1A\u6536\u5230\u4E00\u5C01\u5173\u4E8E\u6307\u5BFC\u5982\u4F55\u8FDB\u884C{0}\u7684e-mail\u3002
+email.or.username=\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u6216\u7528\u6237\u540D
+admin.registration.staticprop.desc=\u81EA\u6211\u6CE8\u518C\u540E\u53EF\u4EE5\u6709\u9009\u62E9\u5730\u7ED9\u7528\u6237\u5C5E\u6027\u8D4B\u4E00\u4E2A\u57FA\u51C6\u503C\u3002\u8FD9\u6837\u53EF\u4EE5\u4F7F\u81EA\u6211\u6CE8\u518C\u7684\u7528\u6237\u5BB9\u6613\u88AB\u8BC6\u522B\uFF0C\u4F8B\u5982\uFF0C\u53EF\u4EE5\u548CLDAP\u7528\u6237\u533A\u522B\u5F00\u6765\u3002
+user.lastname=\u59D3
+user.regkey=\u6CE8\u518C\u5BC6\u94A5
+step4.reg.text=<b>\u8BF7\u5728\u7EE7\u7EED\u4E4B\u524D\u5148\u9605\u8BFB\u4F7F\u7528\u6761\u6B3E</b>
+user.login=\u7528\u6237\u540D
+reg.error.title=\u5DF2\u53D6\u6D88\u6CE8\u518C
+admin.registrationLinkExample=\u793A\u4F8B\u4EE3\u7801
+user.firstname=\u540D
+password.notchanged=\u65E0\u6CD5\u4FEE\u6539\u60A8\u7684OpenOLAT\u5BC6\u7801\u3002
+submit.speichernUndweiter=\u53D1\u9001
+user.password=OpenOLAT \u5BC6\u7801
+form.legende.mandatory=\u5FC5\u987B\u586B\u5199\u6B64\u533A\u57DF\u3002
+form.mail.whitelist.error=\u60A8\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u7684\u57DF\u540D\u8FD8\u6CA1\u6709\u4E3A\u81EA\u6211\u6CE8\u518C\u5F00\u653E\u3002\u8BF7\u60A8\u4F7F\u7528\u60A8\u673A\u6784\u7684\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+step3.pw.text=\u8BF7\u53C2\u8003\u5982\u4E0B\u8BF4\u660E\u4EE5\u8BBE\u7F6EOpenOLAT\u5BC6\u7801\uFF1A
+workflow.browsedback=\u8BF7\u4E0D\u8981\u4F7F\u7528\u6B64\u6D4F\u89C8\u5668\u6765\u5BFC\u822A\u3002
+email.or.username.maynotbeempty=\u8BF7\u60A8\u63D0\u4F9B\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u6216\u8005\u60A8\u7684\u7528\u6237\u540D
+step1.pw.text=\u60A8\u53EF\u4EE5\u5728\u6B64\u8BBE\u7F6E\u65B0\u7684OpenOLAT\u5BC6\u7801\u3002\u5F53\u60A8\u4F7F\u7528OpenOLAT\u65F6\uFF0C\u8BF7\u63D0\u4F9B\u4E00\u4E2A\u5DF2\u7ECF\u4F7F\u7528\u7684e-mail\u5730\u5740\u6216\u7528\u6237\u540D\u3002
+reg.error.no_username=\u65E0\u6CD5\u521B\u5EFA\u7528\u6237\u540D
+admin.registration.domains.desc=\u81EA\u6211\u6CE8\u518C\u53EF\u4EE5\u6709\u9009\u62E9\u5730\u9650\u5236\u5728\u4E00\u4E2A\u6216\u8005\u591A\u4E2A\u57DF\u540D\u3002\u8BF7\u6DFB\u52A0\u57DF\u540D\u540D\u5355\uFF0C\u5982\uFF1Aopenolat.com,*openolat.org,hotmail.com\uFF0C\u6765\u6FC0\u6D3B\u8FD9\u4E2A\u529F\u80FD\u3002
+pwchange.body=\u8BF7\u4F7F\u7528\u94FE\u63A5 {0}/dmz/pwchange/index.html?key\={1}\u27E8\={2} \r\n\u6765\u4FEE\u6539\u60A8\u7684 OpenOLAT \u5BC6\u7801\u3002 \r\n\r\n\u60A8\u7684OpenOLAT\u56E2\u961F\u3002
+admin.registration.property=\u7528\u6237\u5C5E\u6027
+disclaimer.filedownloadurl=Nutzungsbedingungen.pdf\uFF08\u4F7F\u7528\u534F\u8BAE\uFF09
+email.address.maynotbeempty=\u60A8\u5FC5\u987B\u8F93\u5165\u4E00\u4E2A\u7535\u5B50\u90AE\u4EF6\u5730\u5740
+admin.menu.title.alt=$\:\u7BA1\u7406\:\u83DC\u5355\:\u9898\u76EE
+disclaimer.paragraph1=OpenOLAT\u7684\u7528\u6237\u4E00\u5B9A\u8981\u4E86\u89E3\uFF0COpenOLAT\u53EA\u80FD\u7528\u4E8E\u6559\u5B66\u3002 \u4ED6/\u5979\u4E0D\u53EF\u4EE5\u8FDD\u80CC\u745E\u58EB\u5173\u4E8E\u516C\u5171\u884C\u4E3A\u6216\u7B2C\u4E09\u65B9\u5168\u529B\u7684\u6CD5\u5F8B\u3002 (Copyright\u7248\u6743, data protection \u6570\u636E\u4FDD\u62A4\u7B49\u7B49.) \u5C24\u5176\u662F\uFF0COpenOLAT\u7684\u7528\u6237\u8981\u4FDD\u8BC1\u4E0D\u5728OpenOLAT\u670D\u52A1\u5668\u4E0A\u4F20\u64AD\u548C\u5B58\u50A8\u6709\u5173\u8272\u60C5\u3001\u79CD\u65CF\u4E3B\u4E49\u4EE5\u53CA\u66B4\u529B\u65B9\u9762\u7684\u4FE1\u606F\u3002 \u6B64\u5916\uFF0C\u4ED6/\u5979\u4E0D\u5F97\u717D\u52A8\u975E\u6CD5\u6D3B\u52A8\u6216\u4E3A\u5176\u63D0\u4F9B\u6709\u5173\u4FE1\u606F\u3002\r\nOpenOLAT\u7B80\u4F53\u4E2D\u6587\u7248
+pwform.cancelled=OpenOLAT \u4FEE\u6539\u5DF2\u7ECF\u88AB\u53D6\u6D88\uFF0C\u5BC6\u7801\u4FDD\u6301\u4E0D\u53D8\u3002
+user.loginlength=\u5230\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26\uFF1B\u53EF\u4EE5\u5305\u62EC\u5B57\u6BCD\u548C\u6570\u5B57
+email.sent=\u7535\u5B50\u90AE\u4EF6\u5DF2\u53D1\u9001\u3002
+form.login=\u767B\u5F55
+pwkey.missingentry=\u6CA1\u6709\u627E\u5230OpenOLAT\u5BC6\u7801\u4FEE\u6539\u7684\u5BC6\u94A5\u3002
+password.successful=\u60A8\u7684OpenOLAT \u5BC6\u7801\u4FEE\u6539\u6210\u529F\u3002
+pwchange.intro=\u60A8\uFF08\u6216\u8005\u5176\u4ED6\u4EBA\uFF09\u5DF2\u7ECF\u8BF7\u6C42OpenOLAT\u7528\u6237\u8D26\u6237{0}\u4F7F\u7528\u4E00\u4E2A\u65B0\u5BC6\u7801\u3002
+reg.notiEmail.subject=\u65B0OpenOLAT\u7528\u6237\uFF1A {1} {2} {{0}}
+regkey.missing=\u6CE8\u518C\u5BC6\u94A5\u4E22\u5931\uFF0C\u8BF7\u9009\u62E9\u4E00\u4E2A\u65B0\u7684\u3002
+login.subject=\u60A8\u5DF2\u7ECF\u5728OpenOLAT\u6CE8\u518C\u3002
+pwchange.subject=\u4E00\u4E2A\u65B0\u7684OpenOLAT\u5BC6\u7801\u7684\u5BC6\u94A5\u3002
+registration.form.cancelled=\u4F60\u5DF2\u7ECF\u53D6\u6D88\u6CE8\u518C\u3002
+submit.weiter=\u4E0B\u4E00\u6B65
+pwchange.homelink=\u8BF7\u70B9\u51FB\u6B64\u5904\u767B\u9646
+submit.speichernUndpwchange=\u66F4\u6539OpenOLAT \u5BC6\u7801
+disclaimer.additionalcheckbox=<b>\u6211\u540C\u610F\u6570\u636E\u7684\u5B58\u50A8\u534F\u8BAE</b>
+admin.registration.domains.title=\u9650\u5236\u5728\u57DF\u540D
+user.pwlength=\u5230\u5C11\u5305\u542B4\u4E2A\u5B57\u7B26\uFF1B\u53EF\u4EE5\u5305\u62EC\u5B57\u6BCD\u548C\u6570\u5B57
+form.check6=\u8BE5\u7528\u6237\u540D\u5DF2\u5B58\u5728\uFF0C\u8BF7\u60A8\u9009\u62E9\u53E6\u4E00\u4E2A\u7528\u6237\u540D\u3002
+unknown.subject=OpenOLAT\u7CFB\u7EDF\u4E2D\u672A\u77E5\u7684e-mail\u5730\u5740\u3002
+form.check5=\u8BF7\u518D\u6B21\u8F93\u5165\u76F8\u540C\u7684\u5BC6\u7801\u3002
+reg.error.user_in_use=\u6B64\u7528\u6237\u540D\u5DF2\u7ECF\u5B58\u5728
+email.address=\u7535\u5B50\u90AE\u4EF6\u5730\u5740
+form.check4=\u8BF7\u8F93\u5165\u5BC6\u7801\u3002
+form.check3=$org.olat.user\:form.checkUsername
+form.check2=\u8BF7\u8F93\u5165\u60A8\u7684\u59D3\u3002
+unknown.body=\u5982\u679C\u60A8\u60F3\u8981\u66F4\u6539OpenOLAT\u5BC6\u7801\uFF0C\u4F46\u662F\u6240\u7ED9\u7684e-mail\u5E76\u6CA1\u6709\u5728\u670D\u52A1\u5668 {0}\u91CC\u6CE8\u518C\uFF0C\u8BF7\u8BD5\u53E6\u4E00\u4E2Ae-mail\u5730\u5740\u3002\r\n\r\n\u4E00\u65E6\u60A8\u4E0D\u60F3\u6536\u5230\u6B64e-mail\uFF0C\u8BF7\u628A\u5B83\u5220\u9664\u3002\r\n\r\n \u60A8\u7684OpenOLAT\u56E2\u961F\uFF08\u5434\u5BBE\uFF09\u3002
+form.check1=\u8BF7\u8F93\u5165\u60A8\u7684\u540D\u3002
+reg.body=<p>\u611F\u8C22\u4F60\u5173\u6CE8OpenOLAT.</p><p>\u8BF7\u4F7F\u7528\u8FDE\u63A5{3}<br>\u6765\u5B8C\u6210\u6CE8\u518C\u3002</p><p>\u5982\u679C\u4F60\u4E0D\u60F3\u6CE8\u518C\uFF0C\u8BF7\u5FFD\u7565\u6B64e-mail\u3002</p><p>OpenOLAT\u5C0F\u7EC4</p>
+admin.registration.propertyValue=\u57FA\u51C6\u503C
+form.password.new2=\u786E\u8BA4\u5BC6\u7801
+form.password.new1=\u65B0\u5BC6\u7801
+reg.wherefrom=\u8FD9\u4E2A\u8BF7\u6C42\u670D\u52A1\u7684\u6CE8\u518C {0}\u5DF2\u7ECF\u5728 {1}\u4E0A\u751F\u6210.
+disclaimer.terms.of.usage=<b>\u4F7F\u7528\u6761\u6B3E</b>
+form.general.error=\u8BF7\u4FEE\u6539\u4E0B\u5217\u533A\u57DF\uFF1A
+disclaimer.nok=\u62D2\u7EDD
+step1.reg.text=\u60A8\u9700\u8981\u4E00\u4E2A\u6709\u6548\u7684 e-mail\u5730\u5740\u6765\u6CE8\u518C\u3002\u60A8\u5C06\u4F1A\u83B7\u5F97\u4E00\u4E2A\u5305\u542B\u5BC6\u94A5\u7684\u94FE\u63A5\uFF0C\u901A\u8FC7e-mail\u6765\u8BBE\u7F6E\u4E2A\u4EBA\u7684\u7528\u6237\u540D\u548C\u5BC6\u7801\u3002
+admin.registration.title=\u81EA\u6211\u6CE8\u518C
+pwform.failed=\u53D1\u751F\u672A\u77E5\u9519\u8BEF\u3002\u60A8\u7684\u5BC6\u7801\u6CA1\u6709\u6539\u53D8\u3002
+form.password.enter.new=\u8BBE\u7F6E\u65B0\u5BC6\u7801
+step3.reg.text=\u4E3A\u4E86\u5B8C\u6210\u60A8\u6CE8\u518C\uFF0C\u8BF7\u586B\u5199\u4E0B\u8868\u3002
+step1.pw.title=\u8BBE\u7F6E\u65B0\u7684OpenOLAT\u5BC6\u7801\u3002
+email.notsent=\u7535\u5B50\u90AE\u4EF6\u65E0\u6CD5\u53D1\u9001\uFF0C\u8BF7\u60A8\u91CD\u65B0\u63D0\u4F9B\u7535\u5B50\u90AE\u4EF6\u5730\u5740\u3002
+step5.reg.text=<p><b>\u6B22\u8FCE\u6765\u5230 OpenOLAT\!</b></p>\u60A8\u73B0\u5728\u53EF\u4EE5\u4F7F\u7528\u7528\u6237\u540D<b>{1}</b>\u548C\u5BC6\u7801\u767B\u5F55 <a href\="{0}/"></a>
+disclaimer.form.cancelled=\u60A8\u8FD8\u6CA1\u6709\u63A5\u53D7\u8BE5\u6761\u6B3E\u3002
+pwdchangekey.missing=\u8BF7\u4E3A\u5BC6\u7801\u4FEE\u6539\u63D0\u4EA4\u4E00\u4E2A\u5BC6\u94A5\u3002
+user.password2=\u91CD\u65B0\u8F93\u5165OpenOLAT \u5BC6\u7801
+title.pwchange=\u66F4\u6539OpenOLAT \u5BC6\u7801
+menu.login.alt=\u8BF7\u4ECEOpenOLAT\u5B66\u4E60\u7BA1\u7406\u7CFB\u7EDF\u767B\u5165\uFF0C\u4EE5\u83B7\u5F97\u77E5\u8BC6\u548C\u6536\u76CA\u3002
+admin.registration.domains=\u57DF\u540D\u5355
+step4.pw.text=\u60A8\u5DF2\u7ECF\u6210\u529F\u5730\u4FEE\u6539OpenOLAT\u5BC6\u7801\u3002
+step1.reg.title=OpenOLAT \u6CE8\u518C

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="RunnableJar.export.ipwarning" value="true"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="F:\dev\tounicode"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="2"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="New_configuration - inbox"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="F:\dev\OpenOLAT\inbox.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="F:\dev\OpenOLAT\inbox.jar"/>
+			<item value="F:\dev\OpenOLAT\unicode.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="F:\dev\tounicode.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item key="expanded0" value="true"/>
+		<item key="expanded1" value="true"/>
+		<item key="expanded2" value="true"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded5" value="false"/>
+		<item key="expanded6" value="true"/>
+		<item key="expanded7" value="true"/>
+		<item key="expanded8" value="false"/>
+	</section>
+</section>

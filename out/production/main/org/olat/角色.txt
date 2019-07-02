@@ -1,5 +1,0 @@
-lernressourcenverwalter  学习资源管理员
-Roles manager  角色管理员
-Curriculum manager  课程管理员
-qualityverwalter 质量管理员
-groupcoach=小组教练

@@ -12,10 +12,10 @@
 *~
 *.bak
 *.swp
-
+*.properties
 # sundry useless files
 *.out
-mvn*.log
+*.log
 
 # Mac idiosyncrasies
 .DS_Store
@@ -36,3 +36,4 @@ src/test/java/org/olat/selenium/SeleniumTest.java
 */.project
 .idea
 
+/.metadata/
